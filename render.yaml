@@ -1,0 +1,22 @@
+# This Blueprint provisions a PAID web service and persistent disk.
+# Review the charges in Render before creating the service.
+services:
+  - type: web
+    name: game-of-asnf
+    runtime: node
+    plan: 0.5c-512mb
+    numInstances: 1
+    buildCommand: npm test
+    startCommand: npm start
+    healthCheckPath: /healthz
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: HOST
+        value: 0.0.0.0
+      - key: DATA_FILE
+        value: /var/data/rooms.json
+    disk:
+      name: game-rooms
+      mountPath: /var/data
+      sizeGB: 1
