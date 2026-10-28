@@ -62,3 +62,5 @@ This version is intended for small groups. It has no room deletion dashboard, ho
 ## PATIENT SEARCH CHALLENGE
 
 Random ordinary spaces can trigger a one-on-one quiz race. The active player selects one opponent. Only those two players receive the same multiple-choice question; the first correct server-received answer wins $500 once. Six supplied case-search questions are included. Wrong answers cost 1 Life point or $50 if none remain. After the challenger continues, the ordinary landing question resumes. See UPDATE - Patient Search Challenges.md.
+
+All six unique patient challenges are guaranteed across the group before final results. Random triggers are supplemented with progress-based catch-up triggers; any remaining questions are completed in one-on-one final rounds. Individual players do not need to see every question.

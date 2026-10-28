@@ -57,3 +57,8 @@ button:disabled{cursor:not-allowed}#host-start{background:#a71c80;color:white;fo
 .quiz-feedback{padding:12px;border-radius:9px;font-weight:600}.quiz-feedback.correct{background:#e4f6e9;color:#286345!important}.quiz-feedback.incorrect{background:#fff0e2;color:#85491d!important}
 
 #search-challenge{width:580px;max-height:88vh;overflow:auto;border:3px solid #dcae32}#search-challenge h2{font-size:27px;color:#a21d79}#search-challenge-body button{display:block;width:100%;margin:8px 0;padding:14px}#search-challenge-body p{font-size:15px;color:#294e63}
+
+/* Prominent failure treatment and optional sounds. */
+.failure-callout{font-weight:800!important;font-size:17px!important;line-height:1.6;background:#fff0ef;color:#a42035!important;border:3px solid #d9364f;border-radius:12px;padding:17px;margin:14px 0}.quiz-feedback.incorrect{background:#fff0ef!important;border:2px solid #d9364f;color:#a42035!important;font-weight:800}.failure-card{border-color:#d9364f!important;box-shadow:0 18px 70px #9e253836!important}.failure-card #event h3{color:#aa263e}.sound-toggle{font-size:12px!important;padding:7px 11px!important;width:auto!important;display:inline-block;margin:10px 4px;border:1px solid #8bbfd0;background:#edf8fc;color:#24566e;box-shadow:none}
+
+.my-patient-label{background:#e1f5eb;border:2px solid #5ca98f;border-radius:10px;padding:12px 15px;color:#215948;font-weight:800;margin:12px 0!important}
