@@ -1,6 +1,6 @@
 # Latest update — October 28, 2026
 
-This is the complete current multiplayer package. Assigned early endings have been removed: all four patients can continue to the cabin lodge. Paid STOP bonuses and return-to-Start choices remain.
+This is the complete current multiplayer package. The four problem STOPs now require their paid bonus or return-to-Start choice: normal questions and completion buttons cannot bypass them. Assigned early endings have been removed: all four patients can continue to the cabin lodge. Paid STOP bonuses and return-to-Start choices remain.
 
 It includes:
 
