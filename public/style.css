@@ -50,3 +50,8 @@ body{background:linear-gradient(180deg,#9edcf4 0,#e8f7ff 420px,#d8effc 100%)}.bo
 .online-bar{background:#fff;padding:16px 20px;border:2px solid #74c5df;border-radius:14px;margin-bottom:20px}.online-bar p{margin:8px 0}#online-error,#lobby-error{color:#a62242;font-weight:700}.online-status-note{font-size:12px}#lobby button{margin:8px 0}#room-code{font-size:21px;letter-spacing:2px}#path .tile{cursor:default}
 
 button:disabled{cursor:not-allowed}#host-start{background:#a71c80;color:white;font-size:18px;padding:16px 24px;border:2px solid #ef9bcf;box-shadow:0 4px 0 #78115a}
+
+/* Eight equal sectors: 1, 2, 3, 4, 1, 2, 3, 4. */
+#wheel{background:conic-gradient(#e82681 0deg 45deg,#39b8ec 45deg 90deg,#8bc63f 90deg 135deg,#ffdb29 135deg 180deg,#e82681 180deg 225deg,#39b8ec 225deg 270deg,#8bc63f 270deg 315deg,#ffdb29 315deg 360deg)}
+
+.quiz-feedback{padding:12px;border-radius:9px;font-weight:600}.quiz-feedback.correct{background:#e4f6e9;color:#286345!important}.quiz-feedback.incorrect{background:#fff0e2;color:#85491d!important}
