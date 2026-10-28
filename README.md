@@ -10,14 +10,14 @@ This package contains your board artwork, spinner, current 32 spaces with 27 qui
 
 The host opens the hosted game, enters a name, and chooses Create a room. Share the website address and the 8-character room code. Other players open the same address on their own devices and choose Join room. The host starts after everyone joins.
 
-Two to four people can play; use four for all assigned routes. Join order assigns:
+Two to four people can play; every patient can reach the cabin lodge. Join order assigns:
 
 1. Bea Well — continues to the lodge.
-2. Justin Case — finishes at the Park after Case Enrollment.
+2. Justin Case — continues to the lodge.
 3. Will B. Better — continues to the lodge.
-4. Anita Refill — finishes at the Lake after space 21.
+4. Anita Refill — continues to the lodge.
 
-Only the current player receives the landed instructions and action buttons. Every device shares positions, turn status, money, Life points, and the activity log. The eight-section spinner reads 1, 2, 3, 4, 1, 2, 3, 4. A spin earns 1–4 Life points and queues up to that many consecutive space cards. Every card must be completed in order within the same turn. STOP bonuses resume the remaining movement; returning to Start cancels it. Assigned detours and retirement end movement. Payday cards must be acknowledged. STOP failure choices and bonus success pop-ups are preserved: Eligibility $50, Case Enrollment $150, Signed Forms $250, Prescription Verified $250. Welcome Letter has no failure choice.
+Only the current player receives the landed instructions and action buttons. Every device shares positions, turn status, money, Life points, and the activity log. The eight-section spinner reads 1, 2, 3, 4, 1, 2, 3, 4. A spin earns 1–4 Life points and queues up to that many consecutive space cards. Every card must be completed in order within the same turn. STOP bonuses resume the remaining movement; returning to Start cancels it. Only retirement at the cabin lodge ends the journey. Payday cards must be acknowledged. STOP failure choices and bonus success pop-ups are preserved: Eligibility $50, Case Enrollment $150, Signed Forms $250, Prescription Verified $250. Welcome Letter has no failure choice.
 
 Keep the same browser and device to use Reconnect to saved player. Its private player token is saved in browser storage. Clearing storage or using a new device loses that player's access; this version has no account-based recovery. Use separate browser profiles when testing multiple people on one computer.
 

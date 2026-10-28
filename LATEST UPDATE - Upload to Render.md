@@ -1,6 +1,8 @@
-# Latest update — October 27, 2026
+# Latest update — October 28, 2026
 
-This is the complete current multiplayer package, including:
+This is the complete current multiplayer package. Assigned early endings have been removed: all four patients can continue to the cabin lodge. Paid STOP bonuses and return-to-Start choices remain.
+
+It includes:
 
 - 32 spaces: 27 multiple-choice / yes-no questions and 5 STOP event cards (no questions on STOPs).
 - Eight spinner sectors: 1, 2, 3, 4 repeated twice. Every intermediate space is completed in order.
