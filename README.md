@@ -4,7 +4,7 @@ Start with **START HERE - Render.md**. The included `render.yaml` hosts the enti
 
 # Game of Life / ASNF — Multiplayer with room codes
 
-This package contains your board artwork, spinner, current 32 training questions, patient names, bonus rules, and personal pop-up cards. It is prepared for hosting; it is not a deployed website.
+This package contains your board artwork, spinner, current 32 spaces with 27 quiz questions and 5 STOP event cards, patient names, bonus rules, and personal pop-up cards. It is prepared for hosting; it is not a deployed website.
 
 ## Play
 
@@ -58,3 +58,7 @@ The tests cover room setup, private cards, separate turns, server-generated spin
 ## Operational limits
 
 This version is intended for small groups. It has no room deletion dashboard, host removal of players, account recovery, or reconnection from a different device. Rooms persist until an administrator removes their stored data. The server uses short polling rather than WebSockets. Only fictional training patients are included. Game bonuses are fictional payments and do not represent real patient fees or approval determinations.
+
+## PATIENT SEARCH CHALLENGE
+
+Random ordinary spaces can trigger a one-on-one quiz race. The active player selects one opponent. Only those two players receive the same multiple-choice question; the first correct server-received answer wins $500 once. Six supplied case-search questions are included. Wrong answers cost 1 Life point or $50 if none remain. After the challenger continues, the ordinary landing question resumes. See UPDATE - Patient Search Challenges.md.

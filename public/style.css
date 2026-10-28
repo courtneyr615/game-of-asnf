@@ -55,3 +55,5 @@ button:disabled{cursor:not-allowed}#host-start{background:#a71c80;color:white;fo
 #wheel{background:conic-gradient(#e82681 0deg 45deg,#39b8ec 45deg 90deg,#8bc63f 90deg 135deg,#ffdb29 135deg 180deg,#e82681 180deg 225deg,#39b8ec 225deg 270deg,#8bc63f 270deg 315deg,#ffdb29 315deg 360deg)}
 
 .quiz-feedback{padding:12px;border-radius:9px;font-weight:600}.quiz-feedback.correct{background:#e4f6e9;color:#286345!important}.quiz-feedback.incorrect{background:#fff0e2;color:#85491d!important}
+
+#search-challenge{width:580px;max-height:88vh;overflow:auto;border:3px solid #dcae32}#search-challenge h2{font-size:27px;color:#a21d79}#search-challenge-body button{display:block;width:100%;margin:8px 0;padding:14px}#search-challenge-body p{font-size:15px;color:#294e63}
